@@ -1,3 +1,6 @@
+
+![Demo App](/frontend/public/screenshot-for-readme.png)
+
 # SkillSphere
 
 SkillSphere is a comprehensive platform designed to enhance professional networking and skills sharing. This application brings together powerful features for collaboration, learning, and professional growth.
