@@ -88,7 +88,7 @@ export function createWelcomeEmailTemplate(name, profileUrl) {
   </head>
   <body>
     <div class="header">
-      <img src="../../frontend/public/logo.png" alt="SkillSphere Logo" />
+      <img src="https://drive.google.com/uc?export=view&id=1YrdMasFiL-v9hOLdVa6iWHglaltH-Yp-" alt="SkillSphere" />
       <h1>Welcome to SkillSphere!</h1>
     </div>
     <div class="content">
@@ -228,10 +228,7 @@ export const createConnectionAcceptedEmailTemplate = (
   </head>
   <body>
     <div class="header">
-      <img
-        src="../../frontend/public/logo.png"
-        alt="SkillSphere"
-      />
+      <img src="https://drive.google.com/uc?export=view&id=1YrdMasFiL-v9hOLdVa6iWHglaltH-Yp-" alt="SkillSphere" />
       <h1>Connection Accepted!</h1>
     </div>
     <div class="content">
@@ -361,7 +358,7 @@ export const createCommentNotificationEmailTemplate = (
   </head>
   <body>
     <div class="header">
-      <img src="../../frontend/public/logo.png" alt="SkillSphere Logo" />
+      <img src="https://drive.google.com/uc?export=view&id=1YrdMasFiL-v9hOLdVa6iWHglaltH-Yp-" alt="SkillSphere" />
       <h1>New Comment on Your Post</h1>
     </div>
     <div class="content">
